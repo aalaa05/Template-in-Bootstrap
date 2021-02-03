@@ -1,0 +1,114 @@
+body
+{
+    background-color: #f2f2f2;
+}
+
+
+/*Start Header*/
+h1
+{
+    font-size: 64px;
+    line-height: 1.0625;
+    font-weight: 600;
+    width: 70%;
+    margin-top: 40px;
+}
+h2 
+{
+    font-size: 3rem;
+}
+a
+{
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+  }
+  
+.color-red
+{
+    color: #ff0000a8;
+}
+.color-blue
+{
+    color: #0000ffb3;
+}
+.color-green
+{
+    color: #008000a1;
+}
+.color-yellow
+{
+    color: #ffa500c4;
+}
+.color-purble
+{
+    color: #9161f5e0;
+}
+.bg-black
+{
+    background-color: rgba(0, 0, 0, .85);
+}
+.font-size-icon-apple
+{
+    font-size: 23px;
+    font-weight: 400;
+}
+.navbar
+{
+    padding: 0 1rem;
+}
+.px-2rem
+{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.p-font-weight
+{
+    font-weight: 700;
+}
+
+#header-content
+{
+    height: 50vh;
+}
+#header-content p
+{
+    margin-top: 30px;
+    font-size: 24px;
+    line-height: 1.33341;
+    width: 60%;
+}
+
+#about .about-box
+{
+    border-radius: 18px;
+    height: 100%;
+}
+
+/*Start Main Section*/
+
+.brdr-radius
+{
+    border-radius: 18px;
+}
+
+/* Start Footer */
+footer p
+{
+    font-size: 13px;
+}
+footer ul
+{
+    list-style-type: none;
+    padding: 0;
+}
+
+@media  screen and (min-width:200) and (max-width:768px)
+{
+    #header-content
+    {
+        height: 100vh;
+    }
+}
