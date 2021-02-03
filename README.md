@@ -1,1 +1,1 @@
-# Twmplat-in-bootstrap Js jquery
+# Template-in-bootstrap Js jquery
